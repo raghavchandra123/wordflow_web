@@ -78430,10 +78430,10 @@ return A.N($.akX().F0(A.b(["positive.wav","negative.wav"],o)),$async$kX)
 case 3:o=t.N
 l=A
 s=4
-return A.N(q.t_("reduced_concept_embeds_50d.json"),$async$kX)
+return A.N(q.t_("assets/reduced_concept_embeds_50d.json"),$async$kX)
 case 4:k=b
 s=5
-return A.N(q.t_("glove_model_50d.json"),$async$kX)
+return A.N(q.t_("assets/glove_model_50d.json"),$async$kX)
 case 5:j=b
 i=m
 h=A
